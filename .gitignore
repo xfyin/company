@@ -1,0 +1,11 @@
+.idea/
+*.iml
+.project
+.settings
+target/
+logs/
+/src/test
+README
+.DS_Store
+.classpath
+.project
